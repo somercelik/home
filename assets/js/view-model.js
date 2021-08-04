@@ -78,7 +78,7 @@ function ViewModel() {
                         "Bu süreçte kendimle vakit geçirip kendimi gerçekten tanımak için oldukça fazla vaktim oldu. İlgi alanlarım: Astronomi, Bilim, Bilgisayar " +
                         "Bilimleri, Rock Müzik (Yabancı Ağırlıklı)...";
 
-    this.summaryText = 'Bilgisayar bilimlerine neredeyse dünyaya gözlerini açtığından beri meraklı bir Dünya Gezegeni vatandaşı.';
+    this.summaryText = 'Dünya Gezegeni vatandaşı';
 
 
     //Özgeçmiş
