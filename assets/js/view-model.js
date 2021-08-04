@@ -89,7 +89,7 @@ function ViewModel() {
             schoolName: "Süleyman Demirel Üniversitesi, Isparta",
             department: "BİLGİSAYAR MÜHENDİSLİĞİ (Bachelor's Degree)",
             startEndDates: "2015 - 2020",
-            title: "Bilgisayar Bilimlerinin derinine inmek ve öğrenme metodolojimi belirlemek için bir araç olarak üniversite kurumunu kullandım, düşünce yapısı açısından katkısı olduğu kanaatindeyim."
+            title: "Sektörün fiziksel katmanına inmek ve öğrenme metodolojimi belirlemek için bir araç olarak üniversite kurumunu kullandım, düşünce yapısı açısından katkısı olduğunu düşünüyorum. Java temelli eğitim aldık ancak eğitimimin ardından bir daha Java'nın yüzüne nadiren baktım. 🙃"
         },
         {
             schoolName: "Şehit Nurullah Saraç Anadolu Lisesi, Gerze/Sinop",
