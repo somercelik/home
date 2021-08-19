@@ -52,7 +52,7 @@ function ViewModel() {
             rate: 90
         },
         {
-            name: "SQL, PQ/SQL (Oracle Dialect)",
+            name: "SQL, PL/SQL (Oracle Dialect)",
             rate: 90
         },
         {
